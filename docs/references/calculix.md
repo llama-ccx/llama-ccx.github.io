@@ -2,7 +2,7 @@
 
 [CalculiX](http://www.calculix.de/) is a free, open-source finite element solver developed by Guido Dhondt and Klaus Wittig.
 
-Lama uses CalculiX as its analysis backend. The input deck format (`.inp`) is compatible with the CalculiX CrunchiX (ccx) solver.
+Llama uses CalculiX as its analysis backend. The input deck format (`.inp`) is compatible with the CalculiX CrunchiX (ccx) solver.
 
 ## Useful links
 

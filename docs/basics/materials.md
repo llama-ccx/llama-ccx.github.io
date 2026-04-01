@@ -1,6 +1,6 @@
 # Materials
 
-Lama supports several material models for use with CalculiX.
+Llama supports several material models for use with CalculiX.
 
 ## Isotropic Material
 

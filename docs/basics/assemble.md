@@ -8,7 +8,6 @@ The **CcxModel** component assembles all parts of the structural model into a si
 | ------------------ | ---------------------------------------- |
 | Mesh / Model       | The meshed structural model              |
 | Materials          | Material definitions                     |
-| Sections           | Section assignments                      |
 | Boundary Conditions| Supports and constraints                 |
 | Loads              | Applied loads                            |
 | Steps              | Analysis steps with output requests      |

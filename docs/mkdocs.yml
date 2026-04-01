@@ -1,12 +1,12 @@
-site_name: Lama
-site_description: Lama – CalculiX wrapper for Grasshopper
+site_name: Llama
+site_description: Llama – CalculiX wrapper for Grasshopper
 site_author: Marco Pellegrino
-site_url: https://lama-ccx.github.io/
+site_url: https://llama-ccx.github.io/
 docs_dir: .
 site_dir: ../site
 
-repo_name: lama-ccx/lama-ccx.github.io
-repo_url: https://github.com/lama-ccx/lama-ccx.github.io
+repo_name: llama-ccx
+repo_url: https://github.com/llama-ccx/llama-ccx
 
 theme:
   name: material
@@ -18,14 +18,14 @@ theme:
       primary: white
       accent: black
       toggle:
-        icon: material/brightness-7
+        icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
       accent: white
       toggle:
-        icon: material/brightness-4
+        icon: material/toggle-switch
         name: Switch to light mode
   font:
     text: Inter
@@ -35,6 +35,7 @@ theme:
     - navigation.expand
     - navigation.top
     - navigation.instant
+    - navigation.footer
     - search.suggest
     - search.highlight
     - content.code.copy
@@ -58,12 +59,11 @@ markdown_extensions:
       permalink: true
 
 nav:
-  - Lama:
+  - Llama:
       - Home: index.md
       - Installation: installation.md
   - Basics:
       - Materials: basics/materials.md
-      - Sections: basics/sections.md
       - Elements: basics/elements.md
       - Meshing: basics/meshing.md
       - Boundary Conditions: basics/boundary-conditions.md

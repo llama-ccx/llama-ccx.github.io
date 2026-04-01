@@ -1,6 +1,6 @@
 # Cantilever Beam
 
-A simple example demonstrating the basic Lama workflow.
+A simple example demonstrating the basic Llama workflow.
 
 ## Problem
 

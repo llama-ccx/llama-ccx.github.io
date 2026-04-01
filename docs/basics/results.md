@@ -13,4 +13,3 @@ Results include:
 - **Displacements** – nodal translations
 - **Stresses** – element/nodal stress tensors (averaged at nodes)
 - **Reaction forces** – support reactions
-- **Mode shapes** – from frequency analysis
