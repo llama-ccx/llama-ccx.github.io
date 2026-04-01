@@ -134,3 +134,15 @@
   color: #000000;
   border-color: #ffffff;
 }
+
+/* Highlight "Buy" nav link in dark red */
+.md-nav a[href*="buy"] .md-ellipsis,
+.md-tabs__link[href*="buy"] {
+  color: #d70c0c !important;
+  font-weight: 700;
+}
+
+[data-md-color-scheme="slate"] .md-nav a[href*="buy"] .md-ellipsis,
+[data-md-color-scheme="slate"] .md-tabs__link[href*="buy"] {
+  color: #d70c0c !important;
+}
