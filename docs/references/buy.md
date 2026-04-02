@@ -27,7 +27,7 @@ You will receive a license file (`data.bin`) within 48 hours.
 
 ---
 
-### Commercial License — 60 € + VAT / year
+### Commercial License — 47 € + VAT / year
 
 For engineering firms, consultancies, freelancers, and any commercial use.
 

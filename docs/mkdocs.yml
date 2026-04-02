@@ -59,9 +59,8 @@ markdown_extensions:
       permalink: true
 
 nav:
-  - Llama:
-      - Home: index.md
-      - Installation: installation.md
+  - Llama: index.md
+  - Installation: installation.md
   - Basics:
       - Materials: basics/materials.md
       - Elements: basics/elements.md
@@ -73,7 +72,10 @@ nav:
       - Analysis: basics/analysis.md
       - Results: basics/results.md
   - Examples:
-      - Cantilever Beam: examples/cantilever-beam.md
+      - Generate geometry: examples/generate-geometry.md
+      - Analysis: examples/analysis.md
+      - Post processing: examples/post-processing.md
+      - Optimisation: examples/optimisation.md
   - References:
       - CalculiX: references/calculix.md
       - License: references/license.md
