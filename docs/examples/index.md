@@ -1,15 +1,27 @@
 # Examples
 
-Explore worked examples to learn how to use Llama step by step.
+Choose an example workflow:
 
-<div class="example-grid" markdown>
+<div class="category-grid">
 
-<a class="example-card" href="cantilever-beam/">
-  <div class="example-card__title">Cantilever Beam</div>
-  <div class="example-card__desc">A simple cantilever beam with a point load — the classic first FE problem.</div>
+<a class="category-card" href="analysis/">
+  <div class="category-card__title">Analysis</div>
+  <div class="category-card__desc">This example focuses on setting up and running structural analysis with Llama.</div>
+</a>
+
+<a class="category-card" href="generate-geometry/">
+  <div class="category-card__title">Generate Geometry</div>
+  <div class="category-card__desc">This example shows how to create clean analysis-ready geometry before meshing.</div>
+</a>
+
+<a class="category-card" href="optimisation/">
+  <div class="category-card__title">Optimisation</div>
+  <div class="category-card__desc">This example demonstrates a simple optimization loop driven by Grasshopper.</div>
+</a>
+
+<a class="category-card" href="post-processing/">
+  <div class="category-card__title">Post Processing</div>
+  <div class="category-card__desc">This example covers extracting and visualizing results after analysis.</div>
 </a>
 
 </div>
-
-!!! note "More examples coming soon"
-    Additional examples covering shell elements, nonlinear analysis, and multi-body models are in preparation.

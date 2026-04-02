@@ -15,7 +15,7 @@ For students, researchers, and educators. Valid for **1 year**, renewable upon r
 - Personal learning and experimentation
 
 !!! warning "Not for commercial use"
-    The Academic License does not cover professional or commercial work. See the [License terms](license.md) for details.
+    The Academic License does not cover professional or commercial work. See the [License terms](references/license.md) for details.
 
 **To request an Academic License**, send an email to [llama.calculix@gmail.com](mailto:llama.calculix@gmail.com) with:
 
