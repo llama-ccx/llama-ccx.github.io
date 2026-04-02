@@ -2,8 +2,8 @@ site_name: Llama
 site_description: Llama – CalculiX wrapper for Grasshopper
 site_author: Marco Pellegrino
 site_url: https://llama-ccx.github.io/
-docs_dir: .
-site_dir: ../site
+docs_dir: docs
+site_dir: site
 
 repo_name: llama-ccx
 repo_url: https://github.com/llama-ccx/llama-ccx
@@ -63,7 +63,7 @@ markdown_extensions:
       permalink: true
 
 hooks:
-  - scripts/autogen_sections.py
+  - docs/scripts/autogen_sections.py
 
 nav:
   - Llama: index.md
