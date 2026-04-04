@@ -91,7 +91,11 @@ def _write_section_index(docs_dir: Path, section_name: str, intro: str, pages: L
     lines.append("</div>")
     lines.append("")
 
-    (docs_dir / section_name / "index.md").write_text("\n".join(lines), encoding="utf-8")
+    index_path = docs_dir / section_name / "index.md"
+    new_content = "\n".join(lines)
+    if index_path.exists() and index_path.read_text(encoding="utf-8") == new_content:
+        return
+    index_path.write_text(new_content, encoding="utf-8")
 
 
 def _build_section_nav(section_name: str, pages: List[PageInfo]) -> List[object]:

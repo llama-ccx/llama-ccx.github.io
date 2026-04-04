@@ -21,7 +21,7 @@ Core concepts and components to build, solve, and inspect models in Llama.
 
 <a class="category-card" href="elements/">
   <div class="category-card__title">Elements</div>
-  <div class="category-card__desc">Llama supports the following CalculiX solid element types:</div>
+  <div class="category-card__desc">!welcome</div>
 </a>
 
 <a class="category-card" href="loads/">

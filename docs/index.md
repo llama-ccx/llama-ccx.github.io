@@ -1,5 +1,7 @@
 # Welcome
 
+![welcome](./images/Gemini_Generated_Image_2qbxfq2qbxfq2qbx.png)
+
 Llama is a Grasshopper plugin for finite element analysis using [CalculiX](http://www.calculix.de/).
 It lets you model, mesh, and analyse structures with beam, shell, and solid elements — all within a parametric Grasshopper workflow.
 

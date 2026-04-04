@@ -1,5 +1,7 @@
 # Elements
 
+![welcome](../images/llama-tetra-16_9.png)
+
 Llama supports the following CalculiX solid element types:
 
 ## Tetrahedral Elements
