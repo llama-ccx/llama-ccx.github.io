@@ -1,6 +1,6 @@
 # Elements
 
-![welcome](../images/llama-tetra-16_9.png)
+![welcome](../images/llama-tetra-16_9.png){.invert-in-dark}
 
 Llama supports the following CalculiX solid element types:
 

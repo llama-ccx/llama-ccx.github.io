@@ -31,6 +31,15 @@
   content: url("../assets/logo-white.png");
 }
 
+/* Opt-in: invert monochrome content images in dark mode */
+.md-content img.invert-in-dark {
+  transition: filter 0.2s ease;
+}
+
+[data-md-color-scheme="slate"] .md-content img.invert-in-dark {
+  filter: invert(1) contrast(1.05);
+}
+
 /* Minimal link styling */
 .md-content a {
   text-decoration: none;
